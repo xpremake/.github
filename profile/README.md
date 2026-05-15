@@ -11,3 +11,5 @@ If you are looking for Premake, be it the latest version or the older iterations
 _This_ is an attempt of leveraging Zig as drop-in replacement C compiler and creating a hybrid of Premake 4.x and Premake 5.x.
 
 In particular the 4.x version will be what originated as a yak shaving project for WinDirStat: my fork of Premake 4.x.
+
+PS: The purpose of using Zig is _also_ to enable Linux builds with the widest possible compatibility across glibc, obviating the need for other hacks that can achieve the same (or using musl-libc).
