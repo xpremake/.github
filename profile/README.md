@@ -3,7 +3,7 @@
 If you are looking for Premake, be it the latest version or the older iterations of Premake:
 
 * [premake organization](https://github.com/premake/)
-  * [premake/premake-core](https://github.com/premake/premake-core)
+  * [premake/premake-core](https://github.com/premake/premake-core) (Premake 5.x)
   * [premake/premake-4.x](https://github.com/premake/premake-4.x)
 
 ## What's this then, you ask?
